@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "Test 1 Average",
+      "setup": "",
+      "run": "make testavg",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 2 Average",
+      "setup": "",
+      "run": "make testavg",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 3 Average",
+      "setup": "",
+      "run": "make testavg",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 4 Average",
+      "setup": "",
+      "run": "make testavg",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 1 Minimum",
+      "setup": "",
+      "run": "make testmin",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 2 Minimum",
+      "setup": "",
+      "run": "make testmin",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 3 Minimum",
+      "setup": "",
+      "run": "make testmin",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 1 Maximum",
+      "setup": "",
+      "run": "make testmax",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 2 Maximum",
+      "setup": "",
+      "run": "make testmax",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Test 3 Maximum",
+      "setup": "",
+      "run": "make testmax",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
