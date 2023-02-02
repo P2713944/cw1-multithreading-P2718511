@@ -50,7 +50,6 @@ void *avgfunc(void *param)
     int total = 0;
 
     while(*args != NULL){
-
         count++;
         total = total + atoi(*args);
     }
